@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="13.831521mm"
+   height="12.935183mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="camera.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4097">
+      <stop
+         style="stop-color:#3d3838;stop-opacity:1;"
+         offset="0"
+         id="stop4099" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop4101" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4087">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4089" />
+      <stop
+         style="stop-color:#333333;stop-opacity:0;"
+         offset="1"
+         id="stop4091" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9999999"
+     inkscape:cx="10.442064"
+     inkscape:cy="23.406"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-442.32641,-110.09806)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#868686;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 469,125.36219 7.125,4.75 -16.75,4.375 11.875,6.75"
+       id="path3996"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g4008"
+       transform="translate(1.3990485,0.71338835)">
+      <rect
+         y="139.29646"
+         x="448.01398"
+         height="8.8349152"
+         width="26.295532"
+         id="rect3958"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         y="139.29646"
+         x="474.21011"
+         height="8.8349152"
+         width="8.6399612"
+         id="rect3960"
+         style="fill:#bb1142;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3962"
+         y="145.76668"
+         x="450.13635"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.48418951px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Exo;-inkscape-font-specification:'Exo Medium';fill:#ffffff;fill-opacity:1"
+           y="145.76668"
+           x="450.13635"
+           id="tspan3964"
+           sodipodi:role="line">Camera</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3966"
+         y="145.67"
+         x="476.28775"
+         style="font-style:normal;font-weight:normal;font-size:7.20880318px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff;fill-opacity:1"
+           y="145.67"
+           x="476.28775"
+           id="tspan3968"
+           sodipodi:role="line">π</tspan></text>
+    </g>
+    <path
+       style="fill:#bb1142;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 455.55541,120.19852 10.37023,0 0,9.7221 -10.37023,0 z"
+       id="rect3970"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#352429;fill-opacity:1;stroke:none"
+       d="m 455.55541,120.20663 11.61791,-3.02196 8.44202,0.0648 0.16205,8.81468 -9.86659,3.85645 -0.21198,-9.59248 z"
+       id="path3974"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <circle
+       style="fill:#352429;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3978"
+       transform="matrix(1.0370232,0,0,1.0370232,-18.610993,-7.4494183)"
+       cx="461.9838"
+       cy="127.88636"
+       r="3.2924659" />
+    <circle
+       transform="matrix(0.80038705,0,0,0.80038705,90.711086,22.813121)"
+       id="path3980"
+       style="fill:#737071;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       cx="461.9838"
+       cy="127.88636"
+       r="3.2924659" />
+    <circle
+       style="fill:#737071;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path3998"
+       transform="matrix(0.45139376,0,0,0.45139376,251.05645,76.769574)"
+       cx="461.9838"
+       cy="127.88636"
+       r="3.2924659" />
+    <circle
+       transform="matrix(0.51850785,0,0,0.51850785,236.49106,63.678791)"
+       id="path4000"
+       style="fill:#737071;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       cx="461.9838"
+       cy="127.88636"
+       r="3.2924659" />
+  </g>
+</svg>

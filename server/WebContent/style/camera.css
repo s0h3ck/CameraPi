@@ -1,0 +1,79 @@
+.camera-backdrop{
+	padding:10px;
+	margin-bottom:10px;
+	width:420px;
+	max-width:100%;
+}
+
+.camera-and-buttons{
+	margin-bottom:20px;
+}
+
+.camera-preview img
+{
+	border-radius:4px;
+	box-shadow: 0 0 4px #bbb;
+}
+
+.camera-buttons{
+	margin-top:30px;
+}
+
+.camera-text, .camera-time
+{
+	text-transform: uppercase;
+	text-align: center;
+	color: #f5f5f5;
+	background: #666;
+	border-radius:3px;
+	margin-bottom:5px;
+	padding:8px;
+	
+}
+
+.camera-preview .circle-btn{
+	width:55px;
+	height:55px;
+}
+
+.camera-text
+{
+	line-height:25px;
+	font-size:80%;
+	z-index: 1;
+}
+
+.camera-time
+{
+	padding:8px;
+	z-index: 2;
+	line-height:50px;
+}
+
+.camera-and-buttons{
+	position: relative;
+}
+
+.mv-buttons {
+	position: absolute;
+	width: 100%;
+	top: 40%;
+	left: 0;
+    z-index: 3;
+	opacity:0.3;
+	transition: all 0.3s;
+}
+
+.camera-backdrop:hover .mv-buttons{
+	opacity:1;
+}
+
+.mv-buttons button:active{
+	transform:scale(0.96);
+}
+
+.camerapi-image,
+.camera-and-buttons{
+    width:400px;
+    height:auto;
+}

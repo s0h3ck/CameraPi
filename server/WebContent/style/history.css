@@ -1,0 +1,72 @@
+.current-picture{
+	max-width:100%;
+    background:#999;
+    margin-bottom:20px;
+    text-align:center;
+}
+
+.big-picture.current-picture{
+    padding:30px;
+    padding-top:40px;
+}
+
+.quicksel{
+    display:inline-block;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    margin-top:40px;
+    /*background:#bb1142; camerapi pink */
+    background:#555;
+    color:#fff;
+    cursor:pointer;
+    transition:all 0.05s;
+    box-shadow: 0 0 10px #666;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.quicksel:hover,
+.thumbs img:hover{
+    transform:scale(0.92);
+}
+
+.quicksel:active,
+.thumbs img:active{
+    transform:scale(0.83);
+    box-shadow: 0 0 20px #666;
+}
+
+.thumbs{
+	margin-top:30px;
+	min-height:80px;
+}
+
+.thumb{
+	width:80px;
+	height:80px;
+	margin:10px;
+	display:inline-block;
+	cursor:pointer;
+    box-shadow: 0 0 10px #666;
+    position:relative;
+}
+
+
+.thumbs img{
+	width:80px;
+	height:80px;
+	max-width:100%;
+	min-height:80px;
+	min-width:80px;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:1;
+}
+
+.page-history h3{
+	padding-left:20px;
+	text-align:left;
+}
+

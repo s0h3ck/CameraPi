@@ -1,0 +1,4 @@
+curl -F "image=@hacked.jpg" -F 'jsonData={"alarm_activated":false,"hack":"true","faces_count":0,"movements":[{"w":35,"x":15,"h":155,"y":14}],"faces":[],"movements_count":1}' http://localhost:8080/camerapi/UploadServlet
+
+curl localhost:8080/camerapi/camera?action=mv-right
+curl localhost:8080/camerapi/camera?action=mv-left
